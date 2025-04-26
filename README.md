@@ -58,6 +58,11 @@ Screenshot showing filters, search, vendor cards</p>
 <img src="./screenshots/7.jpg" alt="Vendor Detail" width="200"/>
 <img src="./screenshots/8.jpg" alt="Vendor Detail" width="200"/>
 
+## 📽️ Demo Video
+
+[Watch Demo Video]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://www.youtube.com/shorts/G3GdX4y9L0U))
+
+
 
 ## 💡 Bonus Features
 
