@@ -60,11 +60,11 @@ Screenshot showing filters, search, vendor cards</p>
 
 
 ## 💡 Bonus Features<br/>
-    Reusable UI cards<br/>
-    Dynamic category detection from data<br/>
-    Font styling using Poppins<br/>
-    Vendor image support<br/>
-    Compact sorting dropdown<br/>
+    - Reusable UI cards<br/>
+    - Dynamic category detection from data<br/>
+    - Font styling using Poppins<br/>
+    - Vendor image support<br/>
+    - Compact sorting dropdown<br/>
 
 
 - **GitHub Repo**: [https://github.com/Soujanyaupase/local-discovery-app](https://github.com/Soujanyaupase/local-discovery-app)
