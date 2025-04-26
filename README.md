@@ -40,27 +40,25 @@ npm install
 npx expo start
 ```
 
-📸 Screenshots
-
-## 📸 Screenshots
+ 📸 Screenshots
 
 ### Home Screen
 Screenshot showing filters, search, vendor cards
-<img src="./screenshots/1.jpg" alt="Home Screen" width="400"/>
-<img src="./screenshots/2.jpg" alt="Home Screen" width="400"/>
-<img src="./screenshots/3.jpg" alt="Home Screen" width="400"/>
+<img src="./screenshots/1.jpg" alt="Home Screen" width="200"/>
+<img src="./screenshots/2.jpg" alt="Home Screen" width="200"/>
+<img src="./screenshots/3.jpg" alt="Home Screen" width="200"/>
 
 ### Category
-<img src="./screenshots/4.jpg" alt="Category" width="400"/>
-<img src="./screenshots/5.jpg" alt="Category" width="400"/>
+<img src="./screenshots/4.jpg" alt="Category" width="200"/>
+<img src="./screenshots/5.jpg" alt="Category" width="200"/>
 
 ### Filter
-<img src="./screenshots/6.jpg" alt="Filter" width="400"/>
+<img src="./screenshots/6.jpg" alt="Filter" width="200"/>
 
 ### Vendor Detail Page
 Screenshot showing vendor details, products, distance, contact, working hours
-<img src="./screenshots/7.jpg" alt="Vendor Detail" width="400"/>
-<img src="./screenshots/8.jpg" alt="Vendor Detail" width="400"/>
+<img src="./screenshots/7.jpg" alt="Vendor Detail" width="200"/>
+<img src="./screenshots/8.jpg" alt="Vendor Detail" width="200"/>
 
 
 💡 Bonus Features
