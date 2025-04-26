@@ -60,7 +60,7 @@ Screenshot showing filters, search, vendor cards</p>
 
 ## 📽️ Demo Video
 
-[Watch Demo Video]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://www.youtube.com/shorts/G3GdX4y9L0U))
+[Watch Demo Video](https://www.youtube.com/shorts/G3GdX4y9L0U)
 
 
 
