@@ -37,7 +37,7 @@ npm install
 npx expo start
 ```
 
- 📸 Screenshots
+ ## 📸 Screenshots
 
 ### Home Screen
 <p>
@@ -59,7 +59,7 @@ Screenshot showing filters, search, vendor cards</p>
 <img src="./screenshots/8.jpg" alt="Vendor Detail" width="200"/>
 
 
-💡 Bonus Features<br/>
+## 💡 Bonus Features<br/>
     Reusable UI cards<br/>
     Dynamic category detection from data<br/>
     Font styling using Poppins<br/>
