@@ -1,18 +1,15 @@
-🌱 Local Discovery App
+## 🌱 Local Discovery App <br/>
 A React Native app built with Expo that helps users discover organic and local vendors in their area — from fruits & veggies to tiffin services and medical stores.
 
-📱 Features
-🔍 Search by name, category, or distance
-🗂️ Filter by vendor category (e.g., Bakery, Dairy, Salon, etc.)
-📍 Sort vendors by Name or Distance
-📸 Vendor image previews
-🧾 Detailed vendor pages with:
-        Products offered
-        Distance
-        Working hours
-        Contact details
+## 📱 Features
 
-🛠️ Tech Stack
+- 🔍 Search by name, category, or distance<br/>
+- 📂 Filter by vendor category (e.g., Bakery, Dairy, Salon, etc.)<br/>
+- 📍 Sort vendors by Name or Distance<br/>
+- 🖼️ Vendor image previews<br/>
+- 📃 Detailed vendor pages with: Products offered, Distance, Working hours, Contact details<br/>
+
+## 🛠️ Tech Stack
 
 - **React Native** (using Expo)
 - **JavaScript (ES6+)**
@@ -23,7 +20,7 @@ A React Native app built with Expo that helps users discover organic and local v
 - **Git** and **GitHub** (version control)
 
 
-⚙️ How to Run the App
+## ⚙️ How to Run the App
 1. Clone the repo
 ```bash
 git clone https://github.com/Soujanyaupase/local-discovery-app.git
@@ -43,7 +40,8 @@ npx expo start
  📸 Screenshots
 
 ### Home Screen
-Screenshot showing filters, search, vendor cards
+<p>
+Screenshot showing filters, search, vendor cards</p>
 <img src="./screenshots/1.jpg" alt="Home Screen" width="200"/>
 <img src="./screenshots/2.jpg" alt="Home Screen" width="200"/>
 <img src="./screenshots/3.jpg" alt="Home Screen" width="200"/>
@@ -56,14 +54,18 @@ Screenshot showing filters, search, vendor cards
 <img src="./screenshots/6.jpg" alt="Filter" width="200"/>
 
 ### Vendor Detail Page
-Screenshot showing vendor details, products, distance, contact, working hours
+<p> Screenshot showing vendor details, products, distance, contact, working hours</p>
 <img src="./screenshots/7.jpg" alt="Vendor Detail" width="200"/>
 <img src="./screenshots/8.jpg" alt="Vendor Detail" width="200"/>
 
 
-💡 Bonus Features
-    Reusable UI cards
-    Dynamic category detection from data
-    Font styling using Poppins
-    Vendor image support
-    Compact sorting dropdown
+💡 Bonus Features<br/>
+    Reusable UI cards<br/>
+    Dynamic category detection from data<br/>
+    Font styling using Poppins<br/>
+    Vendor image support<br/>
+    Compact sorting dropdown<br/>
+
+
+- **GitHub Repo**: [https://github.com/Soujanyaupase/local-discovery-app](https://github.com/Soujanyaupase/local-discovery-app)
+- **Expo Link**: [https://expo.dev/accounts/soujanyaupase/projects/local-discovery-app](https://expo.dev/accounts/soujanyaupase/projects/local-discovery-app)
