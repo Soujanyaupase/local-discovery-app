@@ -1,10 +1,3 @@
-// import React from 'react';
-// import AppNavigator from './navigation/AppNavigator';
-
-// export default function App() {
-//   return <AppNavigator />;
-// }
-// App.js
 import React from 'react';
 import AppNavigator from './navigation/AppNavigator';
 import AppLoading from 'expo-app-loading';
